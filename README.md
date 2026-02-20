@@ -23,7 +23,7 @@ To write a program to predict car prices using a linear regression model and tes
 /*
  Program to implement linear regression model for predicting car prices and test assumptions.
 Developed by: R VENKATRAMANI
-RegisterNumber:  25010118
+RegisterNumber:  25010118     //  212225240182
 */
 import pandas as pd
 import numpy as np
